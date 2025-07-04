@@ -21,14 +21,14 @@ Ofrecer una primera aproximación visual y descriptiva a los destinos que conoci
 
 ## Vista previa
 
-![Ejemplo de la landing page] (proyecto mejorado/Foto Landing Page.png./preview.png)
+![Ejemplo de la landing page](proyecto%20mejorado/Foto%20Landing%20Page.png)
 
 
 ## ¿Quieres probarla?
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/AndresB847/Landing-Page.git
+           https://github.com/AndresB847/Landing-Page.git
     ```
 2. Abre el archivo `index.html` en tu navegador favorito.
 
