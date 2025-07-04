@@ -1,0 +1,42 @@
+# Landing Page: Sitios Turísticos en Bogotá
+
+¡Bienvenido/a! 👋
+
+Este proyecto es una **Landing Page** dedicada a mostrar un blog de algunos de los **sitios turísticos de la ciudad de Bogotá**. Descubre información y imágenes sobre lugares representativos de la capital de Colombia.
+
+## ¿Qué encontrarás en esta página?
+
+- ⭐ Una selección de los **mejores sitios turísticos de Bogotá**.
+- 📸 Imágenes llamativas y descripción de cada lugar.
+- 📍 Ubicación.
+
+## Objetivo
+
+Ofrecer una primera aproximación visual y descriptiva a los destinos que conocimos de la ciudad, ideal para turistas, visitantes y curiosos.
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS
+
+## Vista previa
+
+![Ejemplo de la landing page] (proyecto mejorado/Foto Landing Page.png./preview.png)
+
+
+## ¿Quieres probarla?
+
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/AndresB847/Landing-Page.git
+    ```
+2. Abre el archivo `index.html` en tu navegador favorito.
+
+---
+
+¡Espero que disfrutes aprendiendo sobre Bogotá tanto como yo disfruté creando esta landing page!
+
+---
+
+**Autor:** Andres Felipe Buelvas B.
+✉️ andresfelipebuelvasborrero@gmail.com | 
