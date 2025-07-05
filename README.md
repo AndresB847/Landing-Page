@@ -37,5 +37,4 @@ Ofrecer una primera aproximación visual y descriptiva a los destinos que conoci
 
 ---
 
-**Autor:** Andres Felipe Buelvas B.
 ✉️ andresfelipebuelvasborrero@gmail.com | 
