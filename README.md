@@ -6,8 +6,8 @@ Este proyecto es una **Landing Page** dedicada a mostrar un blog de algunos de l
 
 ## ¿Qué encontrarás en esta página?
 
-- ⭐ Una selección de los **mejores sitios turísticos de Bogotá**.
-- 📸 Imágenes llamativas y descripción de cada lugar.
+- ⭐ Una selección de algunos **sitios turísticos de Bogotá**.
+- 📸 Imágenes y descripción de cada lugar.
 - 📍 Ubicación.
 
 ## Objetivo
