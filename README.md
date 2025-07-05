@@ -28,9 +28,8 @@ Ofrecer una primera aproximación visual y descriptiva a los destinos que conoci
 
 1. Clona este repositorio:
     ```bash
-           https://github.com/AndresB847/Landing-Page.git
-    ```
-2. Abre el archivo `index.html` en tu navegador favorito.
+           https://venerable-stardust-f15c60.netlify.app/
+    
 
 ---
 
